@@ -4,7 +4,6 @@ This repository contains a machine learning project aimed at detecting spam emai
 
 Features
 * Data Preprocessing: Handles loading, cleaning, and preparing the dataset for training. <br>
-* Feature Extraction: Uses TF-IDF vectorization to convert email text into numerical features. <br>
 * Model Training: Implements an SVM classifier to train on the dataset. <br>
 * Hyperparameter Tuning: Utilizes GridSearchCV for optimizing the SVM hyperparameters. <br>
 * Model Evaluation: Includes evaluation metrics like accuracy, confusion matrix, and classification report. <br>
